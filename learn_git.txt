@@ -1,1 +1,2 @@
-1>>>> Lets start learning Git and Github
+1>>>> Lets start learning Git and GitHub
+2>>>> commit two
